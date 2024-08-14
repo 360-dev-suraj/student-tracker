@@ -1,5 +1,5 @@
 Steps to run the project
-1. Clone the project by the help of : git clone https://github.com/360-dev-suraj/student-tracker.git
+1. Clone the project in your xampp/wampp/lampp htdocs folder by the help of : git clone https://github.com/360-dev-suraj/student-tracker.git
 2. Navigate to project in termminal and run : composer install (Note composer must be install)
 3. Create .env file in root directory and update the like below with your configuration
     DB_CONNECTION=mysql
